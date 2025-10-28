@@ -9,7 +9,7 @@ int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   char estado1[20], estado2[20];
-  char codigo1[4], codigo2[4];
+  char codigo1[4], codigo2[10];
   char cidade1[20], cidade2[20];
   int populacao1, populacao2;
   float area1, area2;
